@@ -14,7 +14,7 @@
 
     <properties>
         <dropwizard.version>0.9.0</dropwizard.version>
-        <jackson.api.version>2.9.9.2</jackson.api.version>
+        <jackson.api.version>2.9.9.3</jackson.api.version>
         <commons-codec.version>1.6</commons-codec.version>
         <capsule.maven.plugin.version>0.10.0</capsule.maven.plugin.version>
     </properties>
